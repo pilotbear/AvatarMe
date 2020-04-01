@@ -2,7 +2,7 @@
 Public repository for the CVPR 2020 paper AvatarMe, with high resolution results, data and more.
 
 [Alexandros Lattas](https://github.com/lattas)<sup> 1,2</sup>,
-[Stylianos Moschoglou](https://www.doc.ic.ac.uk/~sm3515/)<sup> 1,2</sup>
+[Stylianos Moschoglou](https://www.doc.ic.ac.uk/~sm3515/)<sup> 1,2</sup>,
 [Baris Gecer](http://barisgecer.github.io)<sup> 1,2</sup>,
 [Stylianos Ploumpis](https://ibug.doc.ic.ac.uk/people/sploumpis)<sup> 1,2</sup>,
 [Vasileios Triantafyllou](https://facesoft.io/company.html)<sup> 2</sup>,
