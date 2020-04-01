@@ -1,4 +1,4 @@
-# [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"]
+# [AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"](https://arxiv.org/abs/2003.13845):
 Public repository for the CVPR 2020 paper AvatarMe, with high resolution results, data and more.
 
 [Alexandros Lattas](https://github.com/lattas)<sup> 1,2</sup>,
@@ -13,6 +13,9 @@ Public repository for the CVPR 2020 paper AvatarMe, with high resolution results
 <sup>1 </sup>Imperial College London
 <br/>
 <sup>2 </sup>FaceSoft.io
+
+[[Preprint]](https://arxiv.org/pdf/2003.13845.pdf)
+__[CVPR 2020]__
 
 ### Overview
 
