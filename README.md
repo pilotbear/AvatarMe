@@ -45,3 +45,14 @@ Both face and head can be rendered realistically in any environment.
 
 ### Data
 Information about the data will be anounced as soon as possible.
+
+### Citation
+If you find this work useful, please use the following to cite our paper:
+```
+@article{lattas2020avatarme,
+  title={AvatarMe: Realistically Renderable 3D Facial Reconstruction "in-the-wild"},
+  author={Lattas, Alexandros and Moschoglou, Stylianos and Gecer, Baris and Ploumpis, Stylianos and Triantafyllou, Vasileios and Ghosh, Abhijeet and Zafeiriou, Stefanos},
+  journal={arXiv preprint arXiv:2003.13845},
+  year={2020}
+}
+```
